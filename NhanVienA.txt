@@ -6,6 +6,12 @@ dung GIT GUI
 
 dung sourcetree
 
+<<<<<<< HEAD
 noi dung Nhan vien D
 
 hello tu nhan vien D
+=======
+noi dung ben nhanh main
+
+hello
+>>>>>>> main
